@@ -34,7 +34,7 @@
     "dotenv": "^8.2.0",
     "fuse.js": "^3.4.6",
     "mongoose": "^5.7.14",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3",
